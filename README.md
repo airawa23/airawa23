@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
  <!--[Anurag's GitHub stats]](https://github.com/anuraghazra/github-readme-stats)-->
 
-<img alt="my stat" align ="left" width="42.5%" rank_icon=github src="https://github-readme-stats.vercel.app/api?username=airawa23&hide_rank=true"/>
+<img alt="my stat" align ="left" width="42.5%" rank_icon=github src="https://github-readme-stats.vercel.app/api?username=airawa23&hide_rank=true&theme=transparent"/>
 
 <!-- [Top Langs] -->
 
-<img alt="my top lang" align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+<img alt="my top lang" align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent">
